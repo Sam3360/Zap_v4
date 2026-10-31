@@ -1,6 +1,7 @@
 # [Zap](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ [Latest version - Now Phone Compatible]
 
 
+<<<<<<< HEAD
 > NOTE: Latest version is [https://Sam3360.github.io/Zap_v3](https://Sam3360.github.io/Zap_v3)
 
 
@@ -45,3 +46,6 @@ Samarth Chugh
 GitHub: [https://github.com/Sam3360](https://github.com/Sam3360)
 
 If you have any suggestions or find a bug, feel free to open an issue or contribute.
+=======
+    >  Code upload complete!
+>>>>>>> 8592298368faed1b738a1da8f72f7231bd9d9bec
